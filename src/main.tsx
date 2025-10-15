@@ -7,7 +7,8 @@
  * This software is proprietary and confidential.
  * Unauthorized copying, distribution, or use is strictly prohibited.
  * 
- * License required for use. Contact: licensing@resumate.com
+ * Source-available software - Free for non-commercial use.
+ * Commercial license required for business use. Contact: etherjoon@gmail.com
  */
 
 import { StrictMode } from 'react'

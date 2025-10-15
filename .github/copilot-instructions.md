@@ -6,7 +6,7 @@
 
 - This software is NOT FREE and NOT OPEN SOURCE
 - Commercial license required for use, modification, or distribution
-- For licensing: licensing@resumate.com | https://resumate.com/licensing
+- For licensing: etherjoon@gmail.com | https://github.com/DecoderX108/resumate
 
 ---
 

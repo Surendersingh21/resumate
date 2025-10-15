@@ -65,7 +65,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="mailto:support@resumate.com" className="text-muted-foreground hover:text-foreground transition-all duration-300 hover:translate-x-1">
+                <a href="mailto:etherjoon@gmail.com" className="text-muted-foreground hover:text-foreground transition-all duration-300 hover:translate-x-1">
                   Contact Us
                 </a>
               </li>
@@ -75,7 +75,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="mailto:feedback@resumate.com" className="text-muted-foreground hover:text-foreground transition-all duration-300 hover:translate-x-1">
+                <a href="mailto:etherjoon@gmail.com" className="text-muted-foreground hover:text-foreground transition-all duration-300 hover:translate-x-1">
                   Feedback
                 </a>
               </li>

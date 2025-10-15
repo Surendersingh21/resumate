@@ -1,8 +1,8 @@
 # Security Policy for Resumate
 
-## 🔒 Proprietary Software Notice
+## 🔒 Source-Available Software Notice
 
-**Resumate** is proprietary, commercial software. All security reports and vulnerabilities must be reported through official channels only.
+**Resumate** is source-available software, free for non-commercial use. All security reports and vulnerabilities should be reported through official channels.
 
 ## 🚨 Reporting Security Vulnerabilities
 
@@ -10,7 +10,7 @@ If you discover a security vulnerability in Resumate, please follow these steps:
 
 ### ✅ DO:
 
-1. **Email us immediately** at: security@resumate.com
+1. **Email us immediately** at: etherjoon@gmail.com
 2. Include detailed information:
    - Description of the vulnerability
    - Steps to reproduce
@@ -28,10 +28,9 @@ If you discover a security vulnerability in Resumate, please follow these steps:
 
 ## 🎯 Scope
 
-Security reports are only accepted for:
+Security reports are accepted for:
 
-- Licensed installations of Resumate
-- Official Resumate deployments
+- Official Resumate repository
 - Documented security vulnerabilities
 
 ## ⏱️ Response Time
@@ -50,9 +49,10 @@ Licensed users who responsibly disclose security vulnerabilities may be:
 
 ## 📧 Contact
 
-- **Security Team**: security@resumate.com
-- **Licensing Issues**: licensing@resumate.com
-- **General Support**: support@resumate.com
+- **Security Team**: etherjoon@gmail.com
+- **Licensing Issues**: etherjoon@gmail.com
+- **General Support**: etherjoon@gmail.com
+- **GitHub**: https://github.com/DecoderX108/resumate
 
 ## ⚖️ Legal Notice
 
@@ -62,8 +62,8 @@ Unauthorized security testing, penetration testing, or vulnerability scanning of
 - Digital Millennium Copyright Act (DMCA)
 - International cybercrime laws
 
-**Only licensed users with explicit written permission may perform security testing.**
+**Only authorized users with explicit written permission may perform security testing.**
 
 ---
 
-**© 2025 Resumate. All Rights Reserved. | Proprietary & Confidential**
+**© 2025 Resumate. All Rights Reserved.**

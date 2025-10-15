@@ -19,9 +19,9 @@ You may use this software for:
 Commercial use (selling, revenue generation, client work) requires a license.
 
 For commercial licensing:
-- Email: licensing@resumate.com
-- Website: https://resumate.com/licensing
-- Pricing: From $99/year
+- Email: etherjoon@gmail.com
+- GitHub: https://github.com/DecoderX108/resumate
+- Contact for pricing information
 
 Unauthorized commercial use is prohibited.
 

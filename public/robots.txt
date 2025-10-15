@@ -7,7 +7,7 @@ Disallow: /api/
 Disallow: /admin/
 
 # Source code available at: https://github.com/resumate/resumate
-# Commercial licensing: https://resumate.com/licensing
+# Commercial licensing: etherjoon@gmail.com
 
 # Copyright © 2025 Resumate. All Rights Reserved.
 # Free for non-commercial use. Commercial license required.

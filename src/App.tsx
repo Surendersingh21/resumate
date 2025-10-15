@@ -7,8 +7,9 @@
  * This software is proprietary and confidential.
  * Unauthorized copying, distribution, or use is strictly prohibited.
  * 
- * License required for use. Contact: licensing@resumate.com
- * Website: https://resumate.com/licensing
+ * Source-available software - Free for non-commercial use.
+ * Commercial license required for business use. Contact: etherjoon@gmail.com
+ * GitHub: https://github.com/DecoderX108/resumate
  */
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';

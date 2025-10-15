@@ -155,8 +155,7 @@ Commercial use requires purchasing a license:
 - Copyright © 2025 Resumate
 - Commercial license required for business use
 - Revenue protection from commercial abuse
-- Pricing structure ($99-$499+)
-- Contact: licensing@resumate.com
+- Contact: etherjoon@gmail.com
 
 ---
 
@@ -178,11 +177,11 @@ This model is used by many successful projects:
 
 - 🐛 GitHub Issues for bugs
 - 💡 GitHub Discussions for features
-- 📧 support@resumate.com for help
+- 📧 etherjoon@gmail.com for help
 
 ### For Commercial Users:
 
-- 💰 licensing@resumate.com for licensing
+- 💰 etherjoon@gmail.com for licensing
 - 📞 Priority support after purchase
 - 🤝 Custom enterprise solutions
 

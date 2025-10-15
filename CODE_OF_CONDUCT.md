@@ -1,26 +1,26 @@
 # Code of Conduct
 
-## 🔒 Proprietary Software Notice
+## 🔒 Source-Available Software Notice
 
-This Code of Conduct applies to **Resumate**, which is proprietary, commercial software. Access to and use of this software is restricted to licensed users only.
+This Code of Conduct applies to **Resumate**, which is source-available software, free for non-commercial use.
 
 ## 📜 Acceptable Use Policy
 
-### Licensed Users Must:
+### Users Must:
 
 1. **Comply with License Terms**
 
-   - Use software only as permitted by your license
-   - Respect usage limitations (user count, deployment restrictions)
-   - Maintain current licensing
+   - Use software only for non-commercial purposes (unless licensed)
+   - Respect usage limitations
+   - Maintain current licensing for commercial use
    - Report license violations
 
 2. **Protect Intellectual Property**
 
-   - Not share source code with unauthorized parties
-   - Not reverse engineer or decompile
-   - Not create unauthorized derivatives
-   - Maintain confidentiality of proprietary information
+   - Respect copyright and licensing terms
+   - Not remove or modify copyright notices
+   - Maintain attribution
+   - Follow non-commercial use restrictions
 
 3. **Use Responsibly**
    - Follow security best practices
@@ -32,12 +32,11 @@ This Code of Conduct applies to **Resumate**, which is proprietary, commercial s
 
 ❌ **Strictly Forbidden:**
 
-- Sharing license keys or credentials
-- Distributing the software without authorization
+- Using for commercial purposes without license
+- Distributing modified versions for commercial use
 - Removing or modifying copyright notices
-- Reverse engineering or decompilation
-- Creating unauthorized copies
-- Hosting for others without proper license
+- Creating commercial derivatives without license
+- Misrepresenting the software's origin
 - Circumventing license validation
 - Using beyond license scope
 
@@ -55,7 +54,7 @@ Violations of this Code of Conduct or license terms may result in:
 
 If you become aware of license violations or misuse:
 
-**Email**: compliance@resumate.com
+**Email**: etherjoon@gmail.com
 
 Include:
 
@@ -97,15 +96,16 @@ Resumate reserves the right to:
 
 ## 📧 Contact
 
-- **Licensing Compliance**: compliance@resumate.com
-- **General Support**: support@resumate.com
-- **Legal Issues**: legal@resumate.com
+- **Licensing Compliance**: etherjoon@gmail.com
+- **General Support**: etherjoon@gmail.com
+- **Legal Issues**: etherjoon@gmail.com
+- **GitHub**: https://github.com/DecoderX108/resumate
 
 ---
 
 ## Summary
 
-**This is proprietary commercial software**. By using Resumate, you agree to:
+**This is source-available software, free for non-commercial use**. By using Resumate, you agree to:
 
 1. Comply with all license terms
 2. Respect intellectual property rights

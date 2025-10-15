@@ -26,12 +26,12 @@ Resumate is developed exclusively by our internal team. All development, modific
 
 1. **Report Bugs**
 
-   - Email: support@resumate.com
+   - Email: etherjoon@gmail.com
    - Include: Version, steps to reproduce, expected vs actual behavior
 
 2. **Suggest Features**
 
-   - Email: feedback@resumate.com
+   - Email: etherjoon@gmail.com
    - Describe: Use case, benefits, priority
 
 3. **Provide Feedback**
@@ -44,12 +44,10 @@ If you're interested in working on Resumate:
 
 1. **Join Our Team**
 
-   - Visit: https://resumate.com/careers
-   - Email: careers@resumate.com
+   - Email: etherjoon@gmail.com
 
 2. **Become a Partner**
-   - Partner Program: partners@resumate.com
-   - Reseller inquiries: sales@resumate.com
+   - Email: etherjoon@gmail.com
 
 ## 🚫 Legal Notice
 
@@ -68,25 +66,22 @@ All improvements, modifications, and derivative works of Resumate are the exclus
 
 ## 📜 Licensing
 
-To use or modify Resumate:
+To use or modify Resumate for commercial purposes:
 
 1. **Purchase a License**
 
-   - Visit: https://resumate.com/licensing
-   - Email: licensing@resumate.com
+   - Email: etherjoon@gmail.com
+   - GitHub: https://github.com/DecoderX108/resumate
 
 2. **License Types Available:**
-   - Individual License
-   - Business License
-   - Enterprise License
-   - OEM/Reseller License
+   - Contact for pricing and options
 
 ## 📞 Contact
 
-- **General Inquiries**: contact@resumate.com
-- **Licensing**: licensing@resumate.com
-- **Support** (licensed users): support@resumate.com
-- **Careers**: careers@resumate.com
+- **General Inquiries**: etherjoon@gmail.com
+- **Commercial Licensing**: etherjoon@gmail.com
+- **Technical Support**: etherjoon@gmail.com
+- **GitHub**: https://github.com/DecoderX108/resumate
 
 ---
 

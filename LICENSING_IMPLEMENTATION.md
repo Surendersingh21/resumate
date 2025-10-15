@@ -129,27 +129,26 @@ Updated:
 
 ### Licensing & Sales
 
-- **Email**: licensing@resumate.com
-- **Website**: https://resumate.com/licensing
-- **Pricing**: https://resumate.com/pricing
+- **Email**: etherjoon@gmail.com
+- **GitHub**: https://github.com/DecoderX108/resumate
 
-### Technical Support (Licensed Users)
+### Technical Support
 
-- **Email**: support@resumate.com
-- **Website**: https://resumate.com/support
+- **Email**: etherjoon@gmail.com
+- **GitHub Issues**: https://github.com/DecoderX108/resumate/issues
 
 ### Security
 
-- **Email**: security@resumate.com
+- **Email**: etherjoon@gmail.com
 
 ### General Inquiries
 
-- **Email**: contact@resumate.com
-- **Website**: https://resumate.com
+- **Email**: etherjoon@gmail.com
+- **GitHub**: https://github.com/DecoderX108/resumate
 
 ### Careers
 
-- **Email**: careers@resumate.com
+- **Email**: etherjoon@gmail.com
 
 ---
 
@@ -255,12 +254,12 @@ Users WITHOUT a valid license are prohibited from:
 
 ## 🚀 Next Steps (Recommended)
 
-### 1. **Website Setup**
+### 1. **Website Setup** (Optional)
 
-- Create https://resumate.com
-- Add licensing page with pricing
-- Implement license purchase system
-- Create customer portal
+- Consider creating a project website
+- Add licensing information page
+- Implement license purchase system (if needed)
+- Create user documentation portal
 
 ### 2. **License Management**
 
@@ -319,15 +318,15 @@ Before going live, update these placeholders:
 
 3. **Pricing**
 
-   - Establish pricing for each license type
-   - Create pricing page on website
-   - Set up payment infrastructure
+   - Establish pricing for each license type (if commercial)
+   - Create pricing page on website (if applicable)
+   - Set up payment infrastructure (if needed)
 
-4. **Domain & Website**
-   - Register resumate.com domain
-   - Build licensing/sales website
-   - Create customer portal
-   - Set up automated licensing system
+4. **Domain & Website** (Optional)
+   - Consider registering a domain
+   - Build project website
+   - Create user documentation
+   - Set up automated licensing system (if needed)
 
 ---
 
@@ -348,6 +347,7 @@ This implementation provides comprehensive legal and technical protection for yo
 
 For questions about this implementation:
 
-- Technical: support@resumate.com
-- Legal: legal@resumate.com
-- Business: contact@resumate.com
+- Technical: etherjoon@gmail.com
+- Legal: etherjoon@gmail.com
+- Business: etherjoon@gmail.com
+- GitHub: https://github.com/DecoderX108/resumate

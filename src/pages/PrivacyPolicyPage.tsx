@@ -302,11 +302,11 @@ export default function PrivacyPolicyPage() {
               <div className="space-y-3">
                 <div className="flex items-center gap-3">
                   <Mail className="h-4 w-4 text-primary" />
-                  <span className="text-foreground">privacy@resumate.com</span>
+                  <span className="text-foreground">etherjoon@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Globe className="h-4 w-4 text-primary" />
-                  <span className="text-foreground">www.resumate.com/contact</span>
+                  <span className="text-foreground">https://github.com/DecoderX108/resumate</span>
                 </div>
               </div>
               
