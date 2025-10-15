@@ -33,16 +33,14 @@ export function LicenseNotice() {
             <p className="text-xs text-blue-700 dark:text-blue-300">
               © 2025 Resumate. 
               <a 
-                href="https://resumate.com/licensing" 
-                target="_blank" 
-                rel="noopener noreferrer"
+                href="mailto:etherjoon@gmail.com" 
                 className="ml-2 underline hover:text-blue-900 dark:hover:text-blue-100"
               >
-                Commercial License Info
+                Contact for Commercial License
               </a>
               {' • '}
               <a 
-                href="https://github.com/resumate/resumate" 
+                href="https://github.com/DecoderX108/resumate" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="underline hover:text-blue-900 dark:hover:text-blue-100"

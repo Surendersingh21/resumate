@@ -1,314 +1,598 @@
-# Resumate - AI-Powered Resume Builder
+# Resumate - AI-Powered Resume Builder# Resumate - AI-Powered Resume Builder
 
-> **📖 SOURCE-AVAILABLE - FREE FOR NON-COMMERCIAL USE**
->
-> Copyright © 2025 Resumate. All Rights Reserved.
->
-> ✅ **FREE** for personal, educational, and non-commercial projects  
-> 💰 **Commercial license required** for business/revenue-generating use
->
-> 📧 Commercial licensing: [licensing@resumate.com](mailto:licensing@resumate.com)
->
+> **📖 SOURCE-AVAILABLE - FREE FOR NON-COMMERCIAL USE**> **📖 SOURCE-AVAILABLE - FREE FOR NON-COMMERCIAL USE**
+
+> >
+
+> Copyright © 2025 Resumate. All Rights Reserved.> Copyright © 2025 Resumate. All Rights Reserved.
+
+> >
+
+> ✅ **FREE** for personal, educational, and non-commercial projects > ✅ **FREE** for personal, educational, and non-commercial projects
+
+> 💰 **Commercial license required** for business/revenue-generating use> 💰 **Commercial license required** for business/revenue-generating use
+
+> >
+
+> 📧 Contact: etherjoon@gmail.com> 📧 Commercial licensing: [licensing@resumate.com](mailto:licensing@resumate.com)
+
+> 🔗 GitHub: https://github.com/DecoderX108/resumate>
+
 > 🌐 Visit: [https://resumate.com/licensing](https://resumate.com/licensing)
 
 ---
 
+---
+
+A modern, professional CV/Resume builder built with **React 19**, **TypeScript**, and **Vite**. Features **AI-powered content generation using Google Gemini AI**, **Firebase authentication**, drag-and-drop functionality, beautiful templates, and PDF/LaTeX export.
+
 A modern, professional CV/Resume builder application built with React, TypeScript, and Vite. Features AI-powered content generation using Ollama (Local LLM), beautiful templates, and multiple export formats.
+
+## 🔓 LICENSE
 
 ## � LICENSE INFORMATION
 
 ### ✅ **FREE for Non-Commercial Use**
 
-You can **freely use, view, and modify** this software for:
+### ✅ **FREE for Non-Commercial Use**
 
-- 📚 **Personal projects** - Create your own resume
-- 🎓 **Learning & education** - Study the code, learn React/TypeScript
+You can freely use, view, and modify this software for:
+
+- 📚 Personal projects - Create your own resumeYou can **freely use, view, and modify** this software for:
+
+- 🎓 Learning & education - Study React/TypeScript/AI integration
+
+- 💼 Portfolio projects- 📚 **Personal projects** - Create your own resume
+
+- 🔬 Research- 🎓 **Learning & education** - Study the code, learn React/TypeScript
+
 - 💼 **Portfolio projects** - Showcase in your portfolio
-- 🔬 **Research** - Academic and non-commercial research
-- 🎨 **Experimentation** - Try new features and modifications
 
-**Requirements:**
+**Requirements:**- 🔬 **Research** - Academic and non-commercial research
+
+- Keep copyright notices intact- 🎨 **Experimentation** - Try new features and modifications
+
+- Give credit to Resumate
+
+- Link back to this repository**Requirements:**
+
+- No commercial use without license
 
 - Keep copyright notices intact
-- Give credit to Resumate in your project
+
+### 💰 **Commercial License Required**- Give credit to Resumate in your project
+
 - Link back to this repository
-- Don't use commercially without a license
 
-### 💰 **Commercial License Required For:**
+You MUST purchase a license for:- Don't use commercially without a license
 
-You **MUST purchase a license** if you want to:
+- ❌ Selling resume services
+
+- ❌ Charging users### 💰 **Commercial License Required For:**
+
+- ❌ SaaS offerings
+
+- ❌ Client/freelance workYou **MUST purchase a license** if you want to:
+
+- ❌ Any revenue generation
 
 - ❌ Sell resume building services to clients
-- ❌ Charge users for CV creation
+
+**Contact:** etherjoon@gmail.com- ❌ Charge users for CV creation
+
 - ❌ Use in commercial products or services
-- ❌ Offer as SaaS or subscription service
+
+---- ❌ Offer as SaaS or subscription service
+
 - ❌ White-label for clients or businesses
-- ❌ Generate revenue from the software
+
+## 🚀 Features- ❌ Generate revenue from the software
+
 - ❌ Use in freelance/client projects
 
-### 📋 Commercial License Options:
+### 🎨 Professional Templates
 
-1. **Freelancer License** - Independent contractors ($99/year)
-2. **Business License** - Companies up to 10 users ($499/year)
-3. **Enterprise License** - Unlimited users + priority support (Custom)
-4. **White-Label/OEM** - Rebrand and resell rights (Custom)
+- Chicago Professional - Clean, traditional layout### 📋 Commercial License Options:
 
-**Get a commercial license:** licensing@resumate.com | https://resumate.com/licensing
+- Modern Executive - Contemporary design with accents
 
----
+- Creative Portfolio Pro - Bold design for creative roles1. **Freelancer License** - Independent contractors ($99/year)
 
-## 🚀 Features
+- Tech Specialist - Technical-focused layout2. **Business License** - Companies up to 10 users ($499/year)
+
+- Fresh Graduate - Entry-level optimized3. **Enterprise License** - Unlimited users + priority support (Custom)
+
+- Print-friendly and ATS-optimized4. **White-Label/OEM** - Rebrand and resell rights (Custom)
+
+### 🤖 AI-Powered Content Generation**Get a commercial license:** licensing@resumate.com | https://resumate.com/licensing
+
+- **Google Gemini AI Integration** - Smart content suggestions
+
+- Position-specific content generation---
+
+- Professional summary creation
+
+- Skills validation and suggestions## 🚀 Features
+
+- Industry-aware recommendations
 
 ### 🎨 **Professional Templates**
 
-- **Chicago Professional**: Clean, traditional layout
-- **Modern Executive**: Contemporary design with accent colors
-- **Creative Portfolio Pro**: Bold design for creative roles
-- **Tech Specialist**: Technical-focused layout
+### 🔐 Authentication & Backend
+
+- **Firebase Authentication** - Secure user accounts- **Chicago Professional**: Clean, traditional layout
+
+- Google Sign-in- **Modern Executive**: Contemporary design with accent colors
+
+- Email/Password authentication- **Creative Portfolio Pro**: Bold design for creative roles
+
+- User data persistence- **Tech Specialist**: Technical-focused layout
+
 - **Fresh Graduate**: Entry-level optimized template
-- Print-friendly and ATS-optimized layouts
-- Responsive design for all devices
 
-### 🤖 **AI-Powered Content Generation**
+### ✨ Modern Features- Print-friendly and ATS-optimized layouts
 
-- **Local LLM Integration**: Uses Ollama for privacy and cost benefits
-- **Position-Specific Content**: Generates role-tailored professional content
+- **Drag-and-drop reordering** - Customize section order- Responsive design for all devices
+
+- **Real-time preview** - See changes instantly
+
+- **Dark/Light theme** - System preference support### 🤖 **AI-Powered Content Generation**
+
+- **Form validation** - Smart input validation
+
+- **Phone number formatting** - International format support- **Local LLM Integration**: Uses Ollama for privacy and cost benefits
+
+- **Date pickers** - User-friendly date selection- **Position-Specific Content**: Generates role-tailored professional content
+
 - **Interactive Chat Interface**: Guided questions for personalized content
-- **Industry-Aware**: Adapts language and focus for different industries
-- **Experience-Level Appropriate**: Content for entry-level to executive roles
-- **Fallback Support**: Template-based generation when Ollama unavailable
+
+### 📄 Export Options- **Industry-Aware**: Adapts language and focus for different industries
+
+- **PDF Export** - High-quality PDF generation- **Experience-Level Appropriate**: Content for entry-level to executive roles
+
+- **LaTeX Export** - Professional typesetting- **Fallback Support**: Template-based generation when Ollama unavailable
+
+- Multiple format support
 
 ### 📝 **Comprehensive CV Sections**
 
-- Personal Information with contact details
-- Professional Summary with AI assistance
-- Work Experience with achievement-focused descriptions
-- Education with relevant coursework
-- Skills (Technical, Soft, Languages, Tools, Frameworks)
-- Awards & Achievements
-- Custom sections for specialized content
+### 📝 Comprehensive Sections
 
-### 🎨 **Modern UI/UX**
+- Personal Information- Personal Information with contact details
 
-- Dark/Light theme support
+- Professional Summary (AI-assisted)- Professional Summary with AI assistance
+
+- Work Experience- Work Experience with achievement-focused descriptions
+
+- Education- Education with relevant coursework
+
+- Skills with categories- Skills (Technical, Soft, Languages, Tools, Frameworks)
+
+- Languages with proficiency levels- Awards & Achievements
+
+- Awards & Achievements- Custom sections for specialized content
+
+---### 🎨 **Modern UI/UX**
+
+## 🛠️ Tech Stack- Dark/Light theme support
+
 - Real-time preview
-- Responsive design
-- Form validation
-- Smooth animations
 
-## 🛠️ Tech Stack
+### Frontend- Responsive design
 
-### Frontend
+- **React 19** - Latest React with hooks- Form validation
 
-- **React 18** - UI library with hooks
-- **TypeScript** - Type safety and better development experience
-- **Vite** - Fast build tool and dev server
-- **Tailwind CSS** - Utility-first CSS framework
-- **shadcn/ui** - Modern component library
+- **TypeScript** - Type-safe development- Smooth animations
+
+- **Vite** - Lightning-fast build tool
+
+- **Tailwind CSS** - Utility-first styling## 🛠️ Tech Stack
+
+- **@dnd-kit** - Drag-and-drop functionality
+
+- **Lucide React** - Beautiful icons### Frontend
+
+### AI & Backend- **React 18** - UI library with hooks
+
+- **Google Gemini AI** - AI content generation- **TypeScript** - Type safety and better development experience
+
+- **Firebase** - Authentication and backend- **Vite** - Fast build tool and dev server
+
+  - Firebase Auth- **Tailwind CSS** - Utility-first CSS framework
+
+  - Firestore (optional)- **shadcn/ui** - Modern component library
+
 - **Lucide React** - Beautiful icon set
-
-### AI Integration
-
-- **Ollama** - Local LLM server for AI content generation
-- **Axios** - HTTP client for API communication
 
 ### Export & PDF
 
+- **jsPDF** - PDF generation### AI Integration
+
+- **html2canvas** - HTML to image conversion
+
+- **LaTeX.js** - LaTeX rendering- **Ollama** - Local LLM server for AI content generation
+
+- **Axios** - HTTP client for API communication
+
+---
+
+### Export & PDF
+
+## 📦 Installation
+
 - **jsPDF** - PDF generation from HTML
-- **html2canvas** - HTML to canvas conversion
-- **React-to-Print** - Print functionality
 
-## 🔧 Installation
+### Prerequisites- **html2canvas** - HTML to canvas conversion
 
-1. **Clone the repository:**
+- **Node.js** 18+ and npm- **React-to-Print** - Print functionality
 
-   ```bash
-   git clone <repository-url>
-   cd resumate
-   ```
+- **Firebase account** (free tier works)
+
+- **Google Gemini API key** (free tier available)## 🔧 Installation
+
+### Setup1. **Clone the repository:**
+
+1. **Clone the repository** ```bash
+
+````bash git clone <repository-url>
+
+git clone https://github.com/DecoderX108/resumate.git   cd resumate
+
+cd resumate   ```
+
+````
 
 2. **Install dependencies:**
 
-   ```bash
-   npm install
-   ```
+3. **Install dependencies**
 
-3. **Start the development server:**
+`bash   `bash
 
-   ```bash
-   npm run dev
-   ```
+npm install npm install
 
-4. **Open your browser:**
-   Navigate to `http://localhost:5174`
+`   `
+
+3. **Configure Firebase**3. **Start the development server:**
+
+Create a Firebase project at [Firebase Console](https://console.firebase.google.com) ```bash
+
+npm run dev
+
+Enable Authentication: ```
+
+- Go to Authentication > Sign-in method
+
+- Enable Google and Email/Password4. **Open your browser:**
+
+  Navigate to `http://localhost:5174`
+
+4. **Get Gemini API Key**
 
 ## 🤖 AI Integration Setup (Ollama)
 
+Get your API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
+
 Resumate uses Ollama for local AI-powered content generation. This provides privacy and cost benefits compared to cloud-based APIs.
+
+5. **Environment Variables**
 
 ### Step 1: Install Ollama
 
-1. Visit [ollama.com](https://ollama.com) and download Ollama for your operating system
-2. Install Ollama following the platform-specific instructions
+Create `.env.local`:
 
-### Step 2: Start Ollama Service
+````env1. Visit [ollama.com](https://ollama.com) and download Ollama for your operating system
+
+# Firebase Configuration2. Install Ollama following the platform-specific instructions
+
+VITE_FIREBASE_API_KEY=your_firebase_api_key
+
+VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com### Step 2: Start Ollama Service
+
+VITE_FIREBASE_PROJECT_ID=your_project_id
+
+VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com```bash
+
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_idollama serve
+
+VITE_FIREBASE_APP_ID=your_app_id```
+
+
+
+# Google Gemini AIThe service will start on `http://localhost:11434`
+
+VITE_GEMINI_API_KEY=your_gemini_api_key
+
+```### Step 3: Install a Language Model
+
+
+
+6. **Start development server**Install a language model (we recommend Llama 3.1):
 
 ```bash
-ollama serve
-```
 
-The service will start on `http://localhost:11434`
+npm run dev```bash
 
-### Step 3: Install a Language Model
+```ollama pull llama3.1
 
-Install a language model (we recommend Llama 3.1):
+````
 
-```bash
-ollama pull llama3.1
-```
+Visit: http://localhost:5173
 
 You can also use other models:
 
+---
+
 ```bash
-ollama pull llama3.2
+
+## 🎯 Usageollama pull llama3.2
+
 ollama pull mistral
-ollama pull codellama
+
+### Creating Your Resumeollama pull codellama
+
 ```
 
-### Step 4: Verify Setup
+1. **Sign in** - Use Google or Email/Password
 
-1. Open Resumate in your browser
-2. Click on any "AI Generate" button in the CV builder
-3. The app will show an Ollama status indicator in the chat interface
-4. If properly configured, you should see "AI Ready" status
+2. **Personal Info** - Fill in your details### Step 4: Verify Setup
 
-### Troubleshooting AI Setup
+3. **Add Sections** - Experience, Education, Skills, etc.
 
-**Ollama Not Available:**
+4. **AI Assistance** - Use Gemini AI for content suggestions1. Open Resumate in your browser
 
-- Ensure Ollama service is running: `ollama serve`
+5. **Drag to Reorder** - Organize sections as you like2. Click on any "AI Generate" button in the CV builder
+
+6. **Choose Template** - Select from 6 professional designs3. The app will show an Ollama status indicator in the chat interface
+
+7. **Export** - Download as PDF or LaTeX4. If properly configured, you should see "AI Ready" status
+
+### AI Features### Troubleshooting AI Setup
+
+- **Professional Summary** - AI-generated summaries based on your profile**Ollama Not Available:**
+
+- **Skills Suggestions** - Smart skill recommendations
+
+- **Content Validation** - Check if skills and experience match your role- Ensure Ollama service is running: `ollama serve`
+
 - Check if the service is accessible at `http://localhost:11434`
+
+---
 
 **No Models Installed:**
 
+## 📁 Project Structure
+
 - Install at least one model: `ollama pull llama3.1`
-- Check available models: `ollama list`
 
-**Connection Issues:**
+```- Check available models: `ollama list`
 
-- Verify firewall settings allow localhost connections
-- Restart Ollama service if needed
+resumate/
 
-## 📝 How to Use
+├── src/**Connection Issues:**
 
-1. **Choose Your Mode**:
+│ ├── components/ # React components
 
-   - Analyze existing CV
-   - Build from scratch
+│ │ ├── ui/ # Reusable UI components- Verify firewall settings allow localhost connections
 
-2. **Select Template**:
+│ │ └── layout/ # Layout components- Restart Ollama service if needed
 
-   - Browse professional templates
-   - Preview designs before selection
+│ ├── context/ # React context (Auth, CV state)
+
+│ ├── pages/ # Page components## 📝 How to Use
+
+│ ├── services/ # Firebase services
+
+│ ├── utils/ # Utility functions1. **Choose Your Mode**:
+
+│ │ ├── geminiService.ts # Gemini AI integration
+
+│ │ ├── exportUtils.ts # PDF export - Analyze existing CV
+
+│ │ └── latexService.ts # LaTeX export - Build from scratch
+
+│ ├── types/ # TypeScript types
+
+│ └── config/ # Configuration files2. **Select Template**:
+
+├── public/ # Static assets
+
+├── .env.local # Environment variables - Browse professional templates
+
+└── package.json # Dependencies - Preview designs before selection
+
+````
 
 3. **Fill Information**:
 
+---
+
    - Add personal details
-   - Enter work experience
+
+## 🔧 Scripts   - Enter work experience
+
    - Include education background
-   - List skills and achievements
 
-4. **AI Assistance**:
+```bash   - List skills and achievements
 
-   - Use AI chat for position-specific content
-   - Answer guided questions for personalized results
+npm run dev      # Start development server
+
+npm run build    # Build for production4. **AI Assistance**:
+
+npm run preview  # Preview production build
+
+npm run lint     # Run ESLint   - Use AI chat for position-specific content
+
+```   - Answer guided questions for personalized results
+
    - Generate professional summaries and descriptions
+
+---
 
 5. **Preview & Edit**:
 
+## 📄 License
+
    - Real-time preview updates
-   - Switch between light/dark themes
+
+**SOURCE-AVAILABLE - NON-COMMERCIAL LICENSE**   - Switch between light/dark themes
+
    - Responsive design preview
 
-6. **Export**:
-   - Download as PDF
-   - Export to Word document
-   - Print-ready formatting
+Copyright © 2025 Resumate. All Rights Reserved.
 
-## 🎯 AI Content Generation Details
+6. **Export**:
+
+### ✅ Free for Non-Commercial Use   - Download as PDF
+
+   - Export to Word document
+
+- Personal resume creation   - Print-ready formatting
+
+- Learning and education
+
+- Research and experimentation## 🎯 AI Content Generation Details
+
+- Portfolio projects
 
 The AI system creates professional, position-specific content through:
 
+**Requirements:** Keep copyright notices, provide attribution, link to repository
+
 ### Smart Prompting
 
+### 💰 Commercial Use Requires License
+
 - Role-aware prompt engineering
-- Industry-specific language adaptation
+
+Contact **etherjoon@gmail.com** for commercial licensing.- Industry-specific language adaptation
+
 - Experience-level appropriate content
-- Achievement-focused descriptions
 
-### Interactive Chat Flow
+See [LICENSE.md](./LICENSE.md) for full terms.- Achievement-focused descriptions
 
-1. **Role Identification**: What position are you targeting?
+
+
+---### Interactive Chat Flow
+
+
+
+## 🤝 Contributing1. **Role Identification**: What position are you targeting?
+
 2. **Experience Assessment**: Years of experience in the field
-3. **Skills Analysis**: Key technical and soft skills
-4. **Achievement Capture**: Major accomplishments
-5. **Goal Alignment**: Target company/role preferences
 
-### Content Types Generated
+Contributions welcome for non-commercial improvements!3. **Skills Analysis**: Key technical and soft skills
+
+4. **Achievement Capture**: Major accomplishments
+
+1. Fork the repository5. **Goal Alignment**: Target company/role preferences
+
+2. Create a feature branch
+
+3. Make your changes### Content Types Generated
+
+4. Submit a pull request
 
 - **Professional Summaries**: 2-3 compelling sentences
-- **Experience Bullets**: Achievement-focused job descriptions
+
+By contributing, you agree your contributions will be licensed under the same terms.- **Experience Bullets**: Achievement-focused job descriptions
+
 - **Skills Lists**: Role-relevant technical and soft skills
-- **Education Details**: Relevant coursework and projects
+
+---- **Education Details**: Relevant coursework and projects
+
 - **Achievements**: Quantified accomplishments
+
+## 📞 Contact & Support
 
 ## 🔥 Key Features Explained
 
-### Template System
+- **Email:** etherjoon@gmail.com
+
+- **GitHub Issues:** [Report bugs](https://github.com/DecoderX108/resumate/issues)### Template System
+
+- **GitHub Discussions:** [Ask questions](https://github.com/DecoderX108/resumate/discussions)
 
 Each template is designed for specific use cases:
 
+---
+
 - **Traditional roles**: Chicago Professional
-- **Leadership positions**: Modern Executive
+
+## ⭐ Show Your Support- **Leadership positions**: Modern Executive
+
 - **Creative fields**: Creative Portfolio Pro
-- **Tech roles**: Tech Specialist
-- **New graduates**: Fresh Graduate
 
-### Export Capabilities
+If you find this project useful:- **Tech roles**: Tech Specialist
 
-- **High-quality PDFs**: Vector-based, print-ready
+- ⭐ Star this repository- **New graduates**: Fresh Graduate
+
+- 🔀 Fork and contribute
+
+- 📢 Share with others### Export Capabilities
+
+- 🐛 Report bugs
+
+- 💡 Suggest features- **High-quality PDFs**: Vector-based, print-ready
+
 - **Word Documents**: Editable .docx format
-- **Consistent Formatting**: Maintains design integrity
+
+---- **Consistent Formatting**: Maintains design integrity
+
 - **Multiple Formats**: Choose based on application requirements
+
+## 📝 Roadmap
 
 ### AI Fallback System
 
-- **Primary**: Ollama local LLM for best results
-- **Fallback**: Template-based generation ensures functionality
-- **Error Handling**: Graceful degradation when AI unavailable
-- **Performance**: Fast response times with local processing
+- [ ] More CV templates
 
-## 🚧 Development
+- [ ] Additional AI providers- **Primary**: Ollama local LLM for best results
 
-### Project Structure
+- [ ] Cloud storage integration- **Fallback**: Template-based generation ensures functionality
 
-```
-src/
-├── components/          # Reusable UI components
-│   ├── ui/             # shadcn/ui components
-│   └── OllamaStatusIndicator.tsx
+- [ ] Collaborative editing- **Error Handling**: Graceful degradation when AI unavailable
+
+- [ ] Mobile app version- **Performance**: Fast response times with local processing
+
+
+
+---## 🚧 Development
+
+
+
+## 🙏 Acknowledgments### Project Structure
+
+
+
+- **React Team** - For the amazing framework```
+
+- **Google** - For Gemini AI APIsrc/
+
+- **Firebase** - For backend services├── components/          # Reusable UI components
+
+- **Tailwind CSS** - For beautiful styling│   ├── ui/             # shadcn/ui components
+
+- **Open Source Community** - For inspiration and tools│   └── OllamaStatusIndicator.tsx
+
 ├── context/            # React Context (CV state management)
-├── pages/              # Main application pages
+
+---├── pages/              # Main application pages
+
 │   ├── HomePage.tsx
-│   ├── TemplatesPage.tsx
+
+**Built with ❤️ using React, TypeScript, Firebase, and Gemini AI**│   ├── TemplatesPage.tsx
+
 │   └── CVBuilderPage.tsx
-├── utils/              # Utility functions and services
-│   ├── ollamaService.ts
+
+**© 2025 Resumate. All Rights Reserved.**  ├── utils/              # Utility functions and services
+
+*Free for non-commercial use | Commercial license required for business use*│   ├── ollamaService.ts
+
 │   ├── aiUtils.ts
 │   └── exportUtils.ts
 ├── types/              # TypeScript type definitions
 └── styles/             # Global styles and themes
-```
+````
 
 ### Key Files
 

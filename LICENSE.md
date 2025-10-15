@@ -60,7 +60,7 @@ Example attribution:
 ```
 Built with Resumate CV Builder by Resumate
 Source: https://github.com/resumate/resumate
-Commercial license: https://resumate.com/licensing
+Commercial license: https://github.com/DecoderX108/resumate
 ```
 
 ### 5. OBTAINING A COMMERCIAL LICENSE
@@ -69,9 +69,9 @@ To use this Software for **commercial purposes**, you **MUST** obtain a valid co
 
 **Resumate Licensing Department**
 
-- Email: licensing@resumate.com
-- Website: https://resumate.com/licensing
-- Support: support@resumate.com
+- Email: etherjoon@gmail.com
+- Website: https://github.com/DecoderX108/resumate
+- Support: etherjoon@gmail.com
 
 ### 6. COMMERCIAL LICENSE TYPES AVAILABLE
 
@@ -153,8 +153,8 @@ For licensing inquiries, support, or questions:
 
 **Resumate**
 
-- Email: contact@resumate.com
-- Website: https://resumate.com
+- Email: etherjoon@gmail.com
+- Website: https://github.com/DecoderX108/resumate
 - Phone: [Your Phone Number]
 - Address: [Your Business Address]
 
@@ -172,7 +172,7 @@ We actively monitor for unauthorized use and will pursue legal action against in
 
 **This is proprietary, commercial software. You MUST purchase a license to use it.**
 
-For pricing and licensing options, visit: **https://resumate.com/pricing**
+For pricing and licensing options, visit: **mailto:etherjoon@gmail.com**
 
 ---
 

@@ -114,16 +114,14 @@ export default function Footer() {
             <p className="text-xs text-muted-foreground">
               Free for personal & educational use. Commercial use requires a license. 
               <a 
-                href="https://resumate.com/licensing" 
+                href="mailto:etherjoon@gmail.com" 
                 className="ml-2 text-primary hover:underline"
-                target="_blank"
-                rel="noopener noreferrer"
               >
-                Commercial Licensing
+                Contact for Commercial License
               </a>
               {' • '}
               <a 
-                href="https://github.com/resumate/resumate" 
+                href="https://github.com/DecoderX108/resumate" 
                 className="text-primary hover:underline"
                 target="_blank"
                 rel="noopener noreferrer"
