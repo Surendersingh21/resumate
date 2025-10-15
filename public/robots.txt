@@ -1,0 +1,14 @@
+# Robots.txt for Resumate
+# Source-available software - free for non-commercial use
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Source code available at: https://github.com/resumate/resumate
+# Commercial licensing: https://resumate.com/licensing
+
+# Copyright © 2025 Resumate. All Rights Reserved.
+# Free for non-commercial use. Commercial license required.
+

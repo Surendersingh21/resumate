@@ -1,0 +1,18 @@
+{
+  "name": "Resumate - Professional CV Builder",
+  "short_name": "Resumate",
+  "description": "Professional CV Builder with AI Integration - Proprietary Software",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "license": "PROPRIETARY - Copyright © 2025 Resumate. All Rights Reserved.",
+  "licensing_url": "https://resumate.com/licensing"
+}

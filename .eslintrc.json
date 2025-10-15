@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "@eslint/js",
+    "typescript-eslint",
+    "react-hooks",
+    "react-refresh"
+  ],
+  "ignorePatterns": ["dist", ".eslintrc.cjs"],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["react-refresh"],
+  "rules": {
+    "react-refresh/only-export-components": [
+      "warn",
+      { "allowConstantExport": true }
+    ]
+  }
+}
