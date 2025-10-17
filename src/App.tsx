@@ -24,7 +24,6 @@ import AboutPage from '@/pages/AboutPage';
 import PrivacyPolicyPage from '@/pages/PrivacyPolicyPage';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
-import { LicenseNotice } from '@/components/LicenseNotice';
 
 function App() {
   return (
@@ -34,9 +33,6 @@ function App() {
           <div className="min-h-screen flex flex-col">
             <Header />
             <main className="flex-1">
-              <div className="container mx-auto px-4 py-4">
-                <LicenseNotice />
-              </div>
               <Routes>
                 <Route path="/" element={<HomePage />} />
                 <Route path="/templates" element={<TemplatesPage />} />
